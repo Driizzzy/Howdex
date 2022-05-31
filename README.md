@@ -1,14 +1,10 @@
 Hey 👋, I'm Drizzy
 📦 Spécialisé en Bot-DS & Serveur-MC
 
-Listes Projet:
+Projets en cours:
 
-Howdex:
+Serveur Minecraft ( Howdex )
+- Howdex.net
 
-- Mini-Jeux
-- PvP
-
-Howdex API:
-
-- JavaScript
-- Commande spéciale 
+Discord BOT  ( Shop )
+- ventes de mes services bot
